@@ -1,0 +1,101 @@
+[
+    {
+        "id": "elesis",
+        "name": "Elesis",
+        "title": "A Cavaleira Vermelha",
+        "resourceType": "MP",
+        "description": "Primeira filha do líder dos Cavaleiros Vermelhos de Canaban...",
+        "classes": [
+            {
+                "id": "elesis_class_1",
+                "name": "Espadachim",
+                "weapon": "Espada",
+                "tier": 1
+            },
+            {
+                "id": "elesis_class_2",
+                "name": "Cavaleira",
+                "weapon": "Lança",
+                "tier": 2
+            },
+            {
+                "id": "elesis_class_3",
+                "name": "Gladiadora",
+                "weapon": "Montante",
+                "tier": 3
+            },
+            {
+                "id": "elesis_class_4",
+                "name": "Justiceira",
+                "weapon": "Sabres",
+                "tier": 4
+            }
+        ]
+    },
+    {
+        "id": "Lire",
+        "name": "Lire",
+        "title": "A Arqueira elfa",
+        "resourceType": "MP",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.",
+        "classes": [
+            {
+                "id": "lire_class_1",
+                "name": "Arqueira",
+                "weapon": "arco",
+                "tier": 1
+            },
+            {
+                "id": "lire_class_2",
+                "name": "Caçadora",
+                "weapon": "besta",
+                "tier": 2
+            },
+            {
+                "id": "lire_class_3",
+                "name": "Guardiã",
+                "weapon": "Balista",
+                "tier": 3
+            },
+            {
+                "id": "lire_class_4",
+                "name": "Nova",
+                "weapon": "Gakkung",
+                "tier": 4
+            }
+        ]
+    },
+    {
+        "id": "Arme",
+        "name": "Arme",
+        "title": "A maga elemental",
+        "resourceType": "MP",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor.",
+        "classes": [
+            {
+                "id": "arme_class_1",
+                "name": "Maga",
+                "weapon": "Cajado / Varinha",
+                "tier": 1
+            },
+            {
+                "id": "arme_class_2",
+                "name": "Alquimista",
+                "weapon": "Pote / Frasco",
+                "tier": 2
+            },
+            {
+                "id": "arme_class_3",
+                "name": "Feiticeira",
+                "weapon": "Lâmpada Mágica",
+                "tier": 3
+            },
+            {
+                "id": "arme_class_4",
+                "name": "Arquimaga",
+                "weapon": "Cajado Longo",
+                "tier": 4
+            }
+        ]
+    }
+]

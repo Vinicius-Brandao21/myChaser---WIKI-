@@ -1,0 +1,12 @@
+[
+    {
+        "id": "vermecia",
+        "name": "Vermécia",
+        "order": 1
+    },
+    {
+        "id": "terra_de_prata",
+        "name": "Terra de Prata",
+        "order": 2
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "floresta_desafios",
+        "name": "Floresta dos Desafios",
+        "continentId": "vermecia",
+        "recommendedLevel": "1-2",
+        "boss": "Ente",
+        "drops": [
+            "Madeira",
+            "Anel do Iniciante"
+        ]
+    },
+    {
+        "id": "torre_sombria",
+        "name": "Torre Sombria",
+        "continentId": "vermecia",
+        "recommendedLevel": "2-4",
+        "boss": "Wendigo",
+        "drops": [
+            "Pedra Lascada",
+            "Orbe do Wendigo"
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "id": "circo_pesadelos",
+        "name": "Circo dos Pesadelos",
+        "type": "Evento Temporário",
+        "boss": "Zidler",
+        "mechanics": "Proteja a entrada e derrote as ondas de monstros."
+    }
+]
